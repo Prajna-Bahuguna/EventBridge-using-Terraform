@@ -1,0 +1,1 @@
+# EventBridgeRule-using-Terraform
